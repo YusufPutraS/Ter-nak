@@ -58,6 +58,13 @@ body::-webkit-scrollbar {
   margin: 0 5px 0.5rem 5px;
 }
 
+.btn-green {
+  background-color: #56c596;
+  color: white;
+  border: #000;
+  border-width: 1px;
+}
+
 /*header section*/
 .hero_area {
   position: relative;
